@@ -5,6 +5,6 @@ class Anagram
     @string_a = string_a
   end 
   
-  
+  def
 
 end 
