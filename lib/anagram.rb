@@ -5,6 +5,8 @@ class Anagram
   
 end 
 
+
+
 funciton ana(strA, strB){
   const amap = bul(strA);
   const bmap = bul(strB);
