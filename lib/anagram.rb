@@ -7,6 +7,6 @@ class Anagram
   end 
   
   def
-    @@
+    
   end
 end 
