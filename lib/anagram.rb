@@ -1,5 +1,9 @@
 # Your code goes here!
-
+class Anagram
+  
+  
+  
+end 
 
 funciton ana(strA, strB){
   const amap = bul(strA);
