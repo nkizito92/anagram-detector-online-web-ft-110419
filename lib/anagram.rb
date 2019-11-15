@@ -7,7 +7,5 @@ class Anagram
     @word = word
   end 
   
-  def
-    
-  end
+  
 end 
